@@ -1,7 +1,8 @@
-# Phaser 3 Webpack Project Template
+# Football Project
 
-A Phaser 3 Project Template
+## To build:
+`make build`
 
-## How to run:
+## To run:
 
-`npm run build`
+`make run`
